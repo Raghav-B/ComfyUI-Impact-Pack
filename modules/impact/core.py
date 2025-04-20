@@ -4,7 +4,7 @@ import warnings
 
 import numpy
 import torch
-from segment_anything import SamPredictor
+# from segment_anything import SamPredictor
 
 from comfy_extras.nodes_custom_sampler import Noise_RandomNoise
 from impact.utils import *

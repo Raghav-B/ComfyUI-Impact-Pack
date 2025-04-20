@@ -4,7 +4,7 @@ import sys
 import comfy.samplers
 import comfy.sd
 import warnings
-from segment_anything import sam_model_registry
+# from segment_anything import sam_model_registry
 from io import BytesIO
 import piexif
 import zipfile
