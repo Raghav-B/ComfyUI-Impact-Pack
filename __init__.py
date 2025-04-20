@@ -46,7 +46,7 @@ except Exception as e:
     raise e
 
 
-import impact.impact_server  # to load server api
+# import impact.impact_server  # to load server api
 
 from .modules.impact.impact_pack import *
 from .modules.impact.detectors import *

@@ -3,7 +3,7 @@ import time
 
 import execution
 import impact.impact_server
-from server import PromptServer
+# from server import PromptServer
 from impact.utils import any_typ
 import impact.core as core
 import re

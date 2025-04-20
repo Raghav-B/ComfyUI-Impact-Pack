@@ -2073,7 +2073,7 @@ class ImageReceiver:
                 return hash(image)
 
 
-from server import PromptServer
+# from server import PromptServer
 
 class ImageSender(nodes.PreviewImage):
     @classmethod

@@ -4,7 +4,7 @@ import nodes
 from impact import utils
 from . import segs_nodes
 from thirdparty import noise_nodes
-from server import PromptServer
+# from server import PromptServer
 import asyncio
 import folder_paths
 import os

@@ -15,7 +15,7 @@ from PIL import ImageOps
 
 import nodes
 import comfy_extras.nodes_upscale_model as model_upscale
-from server import PromptServer
+# from server import PromptServer
 import comfy
 import impact.wildcards as wildcards
 import math
